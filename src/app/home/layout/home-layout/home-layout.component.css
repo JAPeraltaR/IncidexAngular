@@ -1,0 +1,11 @@
+img{
+  position: relative;
+  width: 50px;
+  z-index: 999;
+}
+
+p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: x-large;
+  font-weight: bold;
+}
